@@ -79,6 +79,7 @@ No-signup or free-tier tools for quickly producing a PDF invoice. Most are US/gl
 - **[Canva Invoices](https://www.canva.com/invoice/)** — Template-driven invoices inside Canva; strong on design, requires a Canva account. `Free` `Templates`
 - **[Wise Invoice Generator](https://wise.com/us/invoice-generator/)** — Free no-signup invoice templates aimed at cross-border freelancers. `Free` `No signup`
 - **[SumUp Invoices](https://www.sumup.com/en-gb/invoices/)** — Mobile-first invoicing inside SumUp's payment ecosystem (formerly Debitoor). `Free` `Payments` `Mobile`
+- **[Freelancer Toolbox invoice generator](https://kleogeos.github.io/freelancer-tools/invoice.html)** — Browser-based invoice generator; fills and renders a printable invoice client-side with nothing uploaded to a server. `Free forever` `No signup`
 
 ## E-invoicing & compliance (EU / Germany)
 
